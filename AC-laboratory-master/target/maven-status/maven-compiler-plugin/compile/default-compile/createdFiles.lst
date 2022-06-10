@@ -1,0 +1,4 @@
+com\app\aclaboratory\AcLaboratoryApplication.class
+com\app\aclaboratory\model\Post.class
+com\app\aclaboratory\services\PostService.class
+com\app\aclaboratory\controllers\PostController.class
